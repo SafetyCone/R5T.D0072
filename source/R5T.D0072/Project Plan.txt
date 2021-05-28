@@ -1,0 +1,4 @@
+R5T.D0072 - IRepositoryProvider<TRepository> service library.
+
+Goals
+
