@@ -1,0 +1,4 @@
+R5T.D0072.Base - Base service definitions library for the IRepositoryProvider<TRepository> service.
+
+Goals
+
